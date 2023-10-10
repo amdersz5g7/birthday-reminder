@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1696750350176.116",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john@email.com",
+      "celebration_date": "1998-10-09",
+      "celebration_type": "Anniversary",
+      "last_date_sent": "2023-10-10T04:38:07+07:00",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "id": "1696750350176.7385",
+      "first_name": "James",
+      "last_name": "Watt",
+      "email": "james@email.com",
+      "celebration_date": "2014-10-10",
+      "celebration_type": "Birthday",
+      "last_date_sent": "2023-10-10T04:39:12+07:00",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "1696750350176.355",
+      "first_name": "bambang - pop",
+      "last_name": "wow",
+      "email": "bw@email.com",
+      "celebration_date": "2009-02-01",
+      "celebration_type": "Anniversary",
+      "last_date_sent": "",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "1696885044873.5374",
+      "first_name": "Rani",
+      "last_name": "White",
+      "email": "rani@email.com",
+      "celebration_date": "2020-10-10",
+      "celebration_type": "Graduation",
+      "last_date_sent": "2023-10-10T04:39:03+07:00",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "id": "1696885068567.6357",
+      "first_name": "Rani",
+      "last_name": "White",
+      "email": "rani@email.com",
+      "celebration_date": "2020-05-14",
+      "celebration_type": "Graduation",
+      "last_date_sent": "",
+      "timezone": "Asia/Jakarta"
+    }
+  ]
+}
