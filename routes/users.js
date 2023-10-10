@@ -2,6 +2,7 @@
 
 import userModel from '../models/userModel.js';
 import express from 'express';
+
 const router = express.Router();
 
 /*

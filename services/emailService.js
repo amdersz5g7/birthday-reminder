@@ -1,4 +1,5 @@
-// // services/emailService.js
+// services/emailService.js
+
 import request from 'request';
 import moment from 'moment-timezone';
 import userModel from '../models/userModel.js';

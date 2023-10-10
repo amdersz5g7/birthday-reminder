@@ -1,9 +1,9 @@
 // models/userModel.js
+
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
-
-import { Low } from 'lowdb';
 import { JSONFile } from 'lowdb/node';
+import { Low } from 'lowdb';
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const file = join(__dirname, 'db.json')
@@ -94,7 +94,6 @@ async function updateUser(user) {
             }
         })
     });
-    //console.log(users);
 
     db.data.users = users;
 
